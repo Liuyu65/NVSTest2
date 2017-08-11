@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NVSTest.iml" filepath="$PROJECT_DIR$/NVSTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/badge/badge.iml" filepath="$PROJECT_DIR$/badge/badge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bluetooth_uuid/bluetooth_uuid.iml" filepath="$PROJECT_DIR$/bluetooth_uuid/bluetooth_uuid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_badge/lib_badge.iml" filepath="$PROJECT_DIR$/lib_badge/lib_badge.iml" />
+    </modules>
+  </component>
+</project>
